@@ -1887,6 +1887,24 @@ body {
   text-align: left;
   color: #232323;
 }
+.cid-rqkHaCGS79 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqkHaCGS79 .mbr-text,
+.cid-rqkHaCGS79 blockquote {
+  color: #767676;
+}
+.cid-rqkHbwKhCK {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rqkHbwKhCK .mbr-text,
+.cid-rqkHbwKhCK blockquote {
+  color: #767676;
+}
 .cid-rpdSWbZYnC {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1936,6 +1954,15 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rqkH8DosFT {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rqkH8DosFT .mbr-text,
+.cid-rqkH8DosFT blockquote {
+  color: #767676;
 }
 .cid-rpdPj3DSkN {
   padding-top: 75px;
